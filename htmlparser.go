@@ -78,7 +78,7 @@ func parseAttendeePage(r io.Reader) ([]string, error) {
 	}
 
 	var div html.Node
-	findNodeByAttribute(doc, &div, "data-attendance-group", "played")
+	findNodeByAttribute(doc, &div, "class", "category participant")
 
 	if div.Parent == nil {
 		return []string{}, errors.New("category played div not found")
@@ -87,7 +87,7 @@ func parseAttendeePage(r io.Reader) ([]string, error) {
 	var ol html.Node
 	findNodeByAttribute(&div, &ol, "class", "attendees")
 	if ol.Parent == nil {
-		return []string{}, errors.New("attendee div not found")
+		return []string{}, errors.New("attendee not found")
 	}
 
 	players := []string{}

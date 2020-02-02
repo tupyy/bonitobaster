@@ -2,13 +2,14 @@ package main
 
 import (
 	"errors"
+	"fmt"
 	"io/ioutil"
 	"strings"
 	"testing"
 )
 
 func TestGetUrl(t *testing.T) {
-	content, err := ioutil.ReadFile("test.text")
+	content, err := ioutil.ReadFile("test.txt")
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -38,8 +39,9 @@ func TestGetPlayers(t *testing.T) {
 		t.Fatal(err)
 	}
 
-	url, _ := parseAttendeePage(strings.NewReader(string(content)))
-	if len(url) == 0 {
+	players, _ := parseAttendeePage(strings.NewReader(string(content)))
+	if len(players) == 0 {
 		t.Fatal(errors.New("no redirect nde"))
 	}
+	fmt.Println(players)
 }
