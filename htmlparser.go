@@ -10,8 +10,7 @@ import (
 )
 
 const (
-	firstPattern  = "Oui"
-	secondPattern = "Click here if you"
+	okpattern = "Oui"
 )
 
 // Extract the validation link from email body
@@ -23,7 +22,7 @@ func extractValidationUrl(r io.Reader) (string, error) {
 
 	var url string
 	var okNode html.Node
-	findNode(doc, &okNode, regexp.MustCompile(firstPattern))
+	findNode(doc, &okNode, regexp.MustCompile(okpattern))
 
 	//this node has a span parent which has, as parent, the node we are looking for
 	if okNode.Parent == nil {
@@ -79,7 +78,7 @@ func parseAttendeePage(r io.Reader) ([]string, error) {
 	}
 
 	var div html.Node
-	findNodeByAttribute(doc, &div, "class", "category played")
+	findNodeByAttribute(doc, &div, "data-attendance-group", "played")
 
 	if div.Parent == nil {
 		return []string{}, errors.New("category played div not found")
