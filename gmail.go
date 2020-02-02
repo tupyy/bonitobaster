@@ -28,8 +28,6 @@ type message struct {
 	snippet string
 }
 
-//   go build -o bonitobuster *.go
-//   bonitobuster -clientid="my-clientid" -secret="my-secret"
 func gmailMain(client *http.Client, argv []string) {
 	if len(argv) != 0 {
 		fmt.Fprintln(os.Stderr, "Usage: gmail")
@@ -41,7 +39,25 @@ func gmailMain(client *http.Client, argv []string) {
 		log.Fatalf("Unable to create Gmail service: %v", err)
 	}
 
-	var total int64
+	msgs, err := getMessages(svc)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	if len(msgs) > 0 {
+		for _, m := range msgs {
+			err := processMessage(m)
+			if err != nil {
+				log.Printf("Error: %v", err)
+			}
+		}
+	} else {
+		log.Print("No messages yet..")
+	}
+}
+
+// Retrive all the messages from AKKABonito received today
+func getMessages(svc *gmail.Service) ([]message, error) {
 	msgs := []message{}
 	pageToken := ""
 	for {
@@ -51,14 +67,14 @@ func gmailMain(client *http.Client, argv []string) {
 		}
 		r, err := req.Do()
 		if err != nil {
-			log.Fatalf("Unable to retrieve messages: %v", err)
+			return []message{}, fmt.Errorf("Unable to retrieve messages: %v", err)
 		}
 
 		log.Printf("Processing %v messages...\n", len(r.Messages))
 		for _, m := range r.Messages {
 			msg, err := svc.Users.Messages.Get("me", m.Id).Format("full").Do()
 			if err != nil {
-				log.Fatalf("Unable to retrieve message %v: %v", m.Id, err)
+				return []message{}, fmt.Errorf("Unable to retrieve message %v: %v", m.Id, err)
 			}
 
 			var date time.Time
@@ -66,7 +82,7 @@ func gmailMain(client *http.Client, argv []string) {
 				if h.Name == "Date" {
 					date, err = time.Parse(time.RFC1123Z, h.Value)
 					if err != nil {
-						log.Fatalf("Unable to parse date from header %v: %v", m.Id, err)
+						return []message{}, fmt.Errorf("Unable to parse date from header %v: %v", m.Id, err)
 					}
 					break
 				}
@@ -97,11 +113,8 @@ func gmailMain(client *http.Client, argv []string) {
 		}
 		pageToken = r.NextPageToken
 	}
-	log.Printf("total: %v\n", total)
 
-	for _, m := range msgs {
-		processMessage(m)
-	}
+	return msgs, nil
 }
 
 func isToday(d time.Time) bool {
