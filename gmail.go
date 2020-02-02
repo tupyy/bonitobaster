@@ -6,7 +6,6 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"strings"
 	"time"
 
 	gmail "google.golang.org/api/gmail/v1"
@@ -101,38 +100,7 @@ func gmailMain(client *http.Client, argv []string) {
 	log.Printf("total: %v\n", total)
 
 	for _, m := range msgs {
-		fmt.Printf("Size: %v, Date: %v, Snippet: %q\n", m.size, m.date, m.snippet)
-		log.Println("Extract validation url")
-		url, err := extractValidationUrl(strings.NewReader(m.body))
-		if err != nil {
-			log.Fatalf("Url not found in message %v: %v", m.gmailID, m)
-		}
-
-		log.Println("Follow redirect url")
-		content, err := followUrl(url)
-		if err != nil {
-			log.Fatal(err)
-		}
-		log.Println("Redirect url OK")
-
-		log.Println("Extract redirect url")
-		redirectUrl, err := extractRedirectUrl(strings.NewReader(string(content)))
-		if err != nil {
-			log.Fatalf("Redirect url not found in response from validation link: %s", string(content))
-		}
-
-		content2, err := followUrl(redirectUrl)
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		players, err := parseAttendeePage(strings.NewReader(string(content2)))
-		if err != nil {
-			log.Fatalf("error parsing attendee page: %v", err)
-		}
-		if len(players) > 0 {
-			fmt.Println(players)
-		}
+		processMessage(m)
 	}
 }
 
