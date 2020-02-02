@@ -1,0 +1,3113 @@
+<div id="container" class="">
+            
+                <div id="page" class="games" data-state="past">
+
+                    
+    <span id="js-id_team_tactic_change_url" data-refresh-url="/event/7632274/selection/tactic/0/"></span>
+
+    
+        <div id="event_sheet" class="content--fixedwidth">
+
+        
+
+                    
+                    <div id="event_preview" class="section">
+
+                        
+                            
+
+
+
+
+
+<div class="content">
+    
+
+
+
+
+
+
+
+    
+        <a href="/event/7632273/" class="arrow previous"><i class="fa fa-chevron-left"></i></a>
+    
+    
+        <a href="/event/7632275/" class="arrow next"><i class="fa fa-chevron-right"></i></a>
+    
+
+    <table>
+        <tbody><tr>
+            <td colspan="3">
+                
+                <small>Match entre nous</small>
+            </td>
+        </tr>
+
+        
+
+            <tr class="event_teams">
+                <td class="home">
+                    Rouges
+
+                </td>
+
+                <td class="score">
+                    
+                        
+                            
+                                -
+                            
+                        
+
+                    
+                </td>
+
+                <td class="guest">
+                    Bleus
+
+                </td>
+            </tr>
+        
+
+        
+
+<tr>
+    <td colspan="3">
+        
+    </td>
+</tr>
+
+
+        <tr>
+            <td class="home">
+
+
+
+
+<ol class="team_ranking left">
+    
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ol>
+</td>
+            <td class="score"></td>
+            <td class="guest">
+
+
+
+
+<ol class="team_ranking right">
+    
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ol>
+</td>
+        </tr>
+
+        <tr class="announcement">
+            
+
+
+<td colspan="3">
+
+    <div class="row event-infos__annoucements">
+
+        <div class="columns large-3">&nbsp;</div>
+
+        <ul class="columns large-6">
+            
+                <li class="event-infos__announcement__about when">
+                    <strong>
+                    Mardi 29 octobre 2019 à 12h30
+                    
+                    </strong>
+                </li>
+                
+                    <li class="event-infos__announcement__about">RDV 12h00</li>
+                
+            
+        </ul>
+        <div class="columns large-3 event-infos__announcement__about">
+            
+    &nbsp;
+
+
+        </div>
+    </div>
+</td>
+
+        </tr>
+    </tbody></table>
+</div>
+
+                        
+
+                    </div>
+                    
+
+                    
+                        
+                    
+
+                    
+                    
+                    
+
+                    
+                        
+                            <div id="show_post_event_info"><div id="man_of_event_block"><h2>Homme du match</h2><a data-name="vote_for_man_of_event" class="button js-popin-form" href="/event/7632274/manofevent/vote/">
+                Voter
+            </a><a data-name="null_vote_man_of_event" class="button secondary js-popin-form" href="/event/7632274/manofevent/vote/null">
+                Ne pas voter
+            </a></div><div id="event_rating_block"><h2>Note du match</h2><div class="big-star-wrapper"><div class="big-star js-ratingtip js-ratingtip2 voteme" data-tooltip="/event/7632274/rating/update/" title="">
+                
+                   Noter
+                
+            </div><span class="info"></span></div></div></div>
+                        
+                    
+
+            
+
+
+            <div class="event_sheet__content content--fixedwidth">
+
+                
+
+                
+                    
+
+                    
+                        
+
+                        
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-actions">
+    <div class="content-actions__section" id="event-actions">
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+            <div class="content-actions_label">Actions :</div>
+
+            
+            
+            
+
+            
+            
+
+            
+            
+                
+                    
+                
+                
+                    
+                
+                
+                    <div class="content-actions__action">
+                        <a href="/event/7632274/member/selection/" data-name="event_invite" class="content-actions__action__link js-popin-form js-tooltip" data-tooltip="<span class='bold_tooltip'>Ajouter des joueurs</span><br><br>Permet d'ajouter des joueurs à ce match sans leur envoyer de message." title="">
+                            <span class="svg-icon-wrapper svg-icon-add-people"><svg style="pointer-events: none;" width="26" height="26"><use xlink:href="#add_people"></use></svg></span>
+                        </a>
+                    </div>
+                
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            
+                <div class="content-actions__action">
+                    <a href="#event_report" class="content-actions__action__link js-tooltip" data-tooltip="Voir le compte-rendu de l'événement" title=""><span class="svg-icon-wrapper svg-icon-report"><svg style="pointer-events: none;" width="26" height="26"><use xlink:href="#report"></use></svg></span></a>
+                </div>
+            
+
+            
+            
+
+            
+            
+                <div class="content-actions__action">
+                    <a href="#" class="content-actions__action__link js-tooltip js-toggle-thread" data-tooltip="Voir le forum de l'événement" title=""><span class="svg-icon-wrapper svg-icon-forum"><svg style="pointer-events: none;" width="26" height="26"><use xlink:href="#forum"></use></svg></span></a>
+                </div>
+            
+
+            
+            
+            
+        
+
+    </div>
+    <div class="content-actions__section">
+        
+            
+        
+
+        
+
+        
+            
+        
+    </div>
+</div>
+
+<div id="infos_attendees">
+
+    <div class="content">
+        
+
+
+
+
+
+<ol id="attendee_list_registration" class="rosters" data-event-id="7632274" data-refresh-target="#infos_attendees" data-max-selected="10" data-is-past="1" data-param-grade-url="#" data-stats-url="/event/7632274/table/stats/players/" data-update-url="/event/7632274/attendance/update/0/lg/" data-refresh-url="/event/7632274/refresh/profile/0/lg/" data-grade-url="/event/7632274/attendee/rating/update/" data-presence-url="/stats/presence/">
+
+    
+        <li class="category played" data-attendance-group="played">
+
+            <div class="category_label">
+                <div class="icon"></div>
+                <div class="title">Ont participé (10)</div>
+                <div class="arrow  arrow-collapse"></div>
+            </div>
+
+            <div class="category_content"><div class="event_attendee_stats_header">
+            <div class="event_stat player_grade sortable" data-stat="player_grade" title="Note moyenne"><div class="order-arrows"></div>
+            <span>Note moy.</span>
+        </div>
+            <div class="event_stat user_grade sortable" data-stat="user_grade" title="help_user_grade"><div class="order-arrows"></div>
+            <span>Ma note</span>
+        </div>
+            <div class="event_stat presence" data-stat="presence" title="Présence">
+            <span>Près.</span>
+        </div>
+            <div class="event_stat player_goals" data-stat="player_goals" title="Nombre de buts marqués">
+            <span>Buts</span>
+        </div>
+            <div class="event_stat player_assists" data-stat="player_assists" title="Nombre de passes décisives">
+            <span>PD</span>
+        </div>
+    </div>
+
+                <ol class="attendees"><div class="drop_area"></div>
+                    
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee played" data-member-id="1432800" data-attendee-id="70449399" data-attendance-group="played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/1432800/" title="(E) Freddy Casimir">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/1432800/" title="(E) Freddy Casimir">
+        
+            (E) Freddy Casimir
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span class="grade_me">Noter</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-check-circle event-stat--presence__on_time js-tooltip" data-tooltip="A l'heure" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=1432800#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee played" data-member-id="2019745" data-attendee-id="70449404" data-attendance-group="played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2019745/" title="(E) Yoann Planchenault">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2019745/" title="(E) Yoann Planchenault">
+        
+            (E) Yoann Planchenault
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span class="grade_me">Noter</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-check-circle event-stat--presence__on_time js-tooltip" data-tooltip="A l'heure" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2019745#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee played" data-member-id="1567860" data-attendee-id="70449397" data-attendance-group="played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/1567860/" title="(?) Daniel Feller">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/media/image/avatar/medium/3fe553957d53717d088f2f87da593dbe/492d3b30709111e8ac22d157ddc0b88a.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/1567860/" title="(?) Daniel Feller">
+        
+            (?) Daniel Feller
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span class="grade_me">Noter</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-check-circle event-stat--presence__on_time js-tooltip" data-tooltip="A l'heure" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=1567860#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee played" data-member-id="671424" data-attendee-id="70449408" data-attendance-group="played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/671424/" title="(V) Sylvain Bonneau">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/media/image/avatar/medium/fb21b7009b7131ff4443f55f9cdd1d37/9ebead60f58511e595486549e538120d.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/671424/" title="(V) Sylvain Bonneau">
+        
+            (V) Sylvain Bonneau
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span class="grade_me">Noter</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-check-circle event-stat--presence__on_time js-tooltip" data-tooltip="A l'heure" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=671424#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee played" data-member-id="2015449" data-attendee-id="70449406" data-attendance-group="played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2015449/" title="(V) Florent Courtiade">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2015449/" title="(V) Florent Courtiade">
+        
+            (V) Florent Courtiade
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span class="grade_me">Noter</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-check-circle event-stat--presence__on_time js-tooltip" data-tooltip="A l'heure" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2015449#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee played" data-member-id="2331613" data-attendee-id="70449420" data-attendance-group="played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2331613/" title="Thibault Duchesne">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/media/image/avatar/medium/4bf2ccdf59102a86144f385015cdf9e4/4d440935347b4313bf28f3fb7e5c9093.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2331613/" title="Thibault Duchesne">
+        
+            Thibault Duchesne
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span class="grade_me">Noter</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-check-circle event-stat--presence__on_time js-tooltip" data-tooltip="A l'heure" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2331613#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee played" data-member-id="2016821" data-attendee-id="70449409" data-attendance-group="played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2016821/" title="(V) Sylvain Merieux">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2016821/" title="(V) Sylvain Merieux">
+        
+            (V) Sylvain Merieux
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span class="grade_me">Noter</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-check-circle event-stat--presence__on_time js-tooltip" data-tooltip="A l'heure" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2016821#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee played" data-member-id="1636748" data-attendee-id="70449401" data-attendance-group="played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/1636748/" title="(E) Julien Cousinie">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/1636748/" title="(E) Julien Cousinie">
+        
+            (E) Julien Cousinie
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span class="grade_me">Noter</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-check-circle event-stat--presence__on_time js-tooltip" data-tooltip="A l'heure" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=1636748#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee played" data-member-id="2074516" data-attendee-id="70449400" data-attendance-group="played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2074516/" title="(E) Hubert Nouhen">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/media/image/avatar/medium/61ff984193f822309aaeb04d79000888/8a771610faf211e89f48274305c060ce.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2074516/" title="(E) Hubert Nouhen">
+        
+            (E) Hubert Nouhen
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span class="grade_me">Noter</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-check-circle event-stat--presence__on_time js-tooltip" data-tooltip="A l'heure" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2074516#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee played  myself" data-member-id="2402285" data-attendee-id="70449405" data-attendance-group="played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2402285/" title="(V) Cosmin Tupangiu">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2402285/" title="(V) Cosmin Tupangiu">
+        
+            (V) Cosmin Tupangiu
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-check-circle event-stat--presence__on_time js-tooltip" data-tooltip="A l'heure" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                    
+                </ol>
+
+            <div class="attendee_list_notice grade">
+    <div class="left-side">
+        <a href="#" class="hidden js-param-grade-url js-tooltip" data-tooltip="Paramétrer ou supprimer les notes et les votes">
+            Paramétrer
+        </a>
+    </div>
+    <div class="right-side">
+        <a data-name="null_grade" class="button secondary js-null-grade">Ne pas noter</a>
+        <a class="button js-grade">Noter</a>
+    </div>
+</div></div>
+
+        </li>
+    
+        <li class="category not_played" data-attendance-group="not_played">
+
+            <div class="category_label" style="">
+                <div class="icon"></div>
+                <div class="title">N'ont pas participé (14)</div>
+                <div class="arrow arrow-collapse"></div>
+            </div>
+
+            <div class="category_content" style="">
+
+                <ol class="attendees"><div class="drop_area"></div>
+                    
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="2334212" data-attendee-id="70449398" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2334212/" title="(E) Clément Rousseau">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2334212/" title="(E) Clément Rousseau">
+        
+            (E) Clément Rousseau
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-warning event-stat--presence__not_excused js-tooltip" data-tooltip="Absent non excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="2015282" data-attendee-id="70449416" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2015282/" title="Montassar Mejri">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2015282/" title="Montassar Mejri">
+        
+            Montassar Mejri
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-times-circle event-stat--presence__excused js-tooltip" data-tooltip="Absent excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2015282#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="596193" data-attendee-id="70449402" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/596193/" title="(V) Mark Burville">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/media/image/avatar/medium/bc445cf362e3f8fa870796fe43f11970/e2a2cdd0a2ff11e78c25998a91430b31.png" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/596193/" title="(V) Mark Burville">
+        
+            Marco
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-warning event-stat--presence__not_excused js-tooltip" data-tooltip="Absent non excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=596193#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="2275626" data-attendee-id="70449417" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2275626/" title="Mouad Belghiti">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2275626/" title="Mouad Belghiti">
+        
+            Mouad Belghiti
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-times-circle event-stat--presence__excused js-tooltip" data-tooltip="Absent excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2275626#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="1517719" data-attendee-id="70449403" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/1517719/" title="(E) Nicolas Izard">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/1517719/" title="(E) Nicolas Izard">
+        
+            (E) Nicolas Izard
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-warning event-stat--presence__not_excused js-tooltip" data-tooltip="Absent non excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=1517719#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="2147119" data-attendee-id="70449414" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2147119/" title="Marwen Boulabiar">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2147119/" title="Marwen Boulabiar">
+        
+            Marwen Boulabiar
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-times-circle event-stat--presence__excused js-tooltip" data-tooltip="Absent excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2147119#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="684700" data-attendee-id="70449407" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/684700/" title="(V) Johnny Long">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/media/image/avatar/medium/302243c7c8e75d37a211c0e4caab9847/d95ecab024a611e99a6745cbb3cf3582.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/684700/" title="(V) Johnny Long">
+        
+            (V) Johnny Long
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-warning event-stat--presence__not_excused js-tooltip" data-tooltip="Absent non excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=684700#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="2010084" data-attendee-id="70449412" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2010084/" title="Amazir Ikhou">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2010084/" title="Amazir Ikhou">
+        
+            Amazir Ikhou
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-times-circle event-stat--presence__excused js-tooltip" data-tooltip="Absent excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2010084#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="2036185" data-attendee-id="70449410" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2036185/" title="Abakar Mahamat-Sougui">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2036185/" title="Abakar Mahamat-Sougui">
+        
+            Abakar Mahamat-Sougui
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-warning event-stat--presence__not_excused js-tooltip" data-tooltip="Absent non excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2036185#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="2783251" data-attendee-id="70449411" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2783251/" title="Ali Wahmane">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2783251/" title="Ali Wahmane">
+        
+            Ali Wahmane
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-warning event-stat--presence__not_excused js-tooltip" data-tooltip="Absent non excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2783251#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="2227977" data-attendee-id="70449413" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2227977/" title="Franklin Yondjio">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2227977/" title="Franklin Yondjio">
+        
+            Franklin Yondjio
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-warning event-stat--presence__not_excused js-tooltip" data-tooltip="Absent non excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2227977#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="2019680" data-attendee-id="70449415" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2019680/" title="Mathieu Pujol">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/media/image/avatar/medium/a9a9b20ce0fff10719850c509da0df7d/0f1dfb40ee6911e8b4baaf8c8c127724.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2019680/" title="Mathieu Pujol">
+        
+            Mathieu Pujol
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-warning event-stat--presence__not_excused js-tooltip" data-tooltip="Absent non excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2019680#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="2257348" data-attendee-id="70449418" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2257348/" title="Otmane Bouchtaoui">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2257348/" title="Otmane Bouchtaoui">
+        
+            Otmane Bouchtaoui
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-warning event-stat--presence__not_excused js-tooltip" data-tooltip="Absent non excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2257348#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                            
+
+
+
+
+
+<li class="attendee not_played" data-member-id="2035618" data-attendee-id="70449419" data-attendance-group="not_played" data-team="" data-field-position-order="">
+    <div class="designation">
+        
+
+
+
+
+    <a class="photo" href="/profile/2035618/" title="Sébastien Meunié">
+        <img src="https://d3949ah8cpww7d.cloudfront.net/media/image/avatar/medium/3fc4f636e60d85a3a3aecc90628134b5/900689b0f48711e8928afb2272b400fb.png" width="50" height="50">
+    </a>
+    
+    <a class="name " href="/profile/2035618/" title="Sébastien Meunié">
+        
+            Sébastien Meunié
+        
+    </a>
+
+
+    </div>
+    <div class="js-attendee-position-list">
+        
+    </div>
+
+    
+        <div class="event_attendee_stats">
+            <div class="event_stat player_grade">
+            <span>-</span>
+    </div>
+            <div class="event_stat user_grade">
+                        <span>-</span>
+        </div>
+            <div class="event_stat event_stat_presence presence">
+            <a href="/stats/presence/"><i class="fa fa-warning event-stat--presence__not_excused js-tooltip" data-tooltip="Absent non excusé" title=""></i></a>
+    </div>
+            <div class="event_stat player_goals">
+    </div>
+            <div class="event_stat player_assists">
+    </div>
+    </div>
+    
+
+    
+
+    
+
+
+
+<div class="dropdown_container " style="">
+    <div>
+        
+
+        
+
+        
+            <div class="dropdown">
+                <a href="#" class="icon" data-toggle="dropdown"></a>
+
+                <ul class="dropdown-menu js-actions">
+
+                    
+
+                    
+                    
+                        
+                            <li class="option">
+                                <a href="/forum/?recipients=2035618#new">
+                                    Message
+                                </a>
+                            </li>
+                        
+                    
+
+                    
+                </ul>
+
+            </div>
+        
+    </div>
+</div>
+
+
+</li><div class="drop_area"></div>
+
+
+                        
+
+                    
+                </ol>
+
+            </div>
+
+        </li>
+    
+
+</ol>
+
+    </div>
+
+
+    <div id="preview_line_up">
+
+        
+
+        
+            <div id="div-gpt-ad-1566807071201-0" style="height: 144px; width: 220px; position: absolute; z-index: 1; display: none;" data-google-query-id="CO7ylJ2bs-cCFQ500wodEtgGxA">
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1566807071201-0'); });
+            </script><div id="google_ads_iframe_/21622268643/browser/prod_web_empty_lineup_0__container__" style="border: 0pt none; width: 1px; height: 1px;"></div>
+            </div>
+        
+
+        <div id="small_field" class="football challenge_match" data-players-list="#attendee_list_registration" data-is-challenge="1" data-challenge-ratio="{&quot;adjust_half&quot;: 0.9, &quot;default&quot;: 1, &quot;ratio&quot;: 2}">
+
+            
+                
+
+                
+                    <div id="no_public_lineup">
+                        <p>Pas encore de compo.</p>
+                    </div>
+                
+
+            
+
+        </div>
+
+    </div>
+
+
+
+
+</div>
+
+    
+
+
+
+
+<div class="comments-container-light forum--guidelines--wrapper" style="display: none;">
+    <h2>Message du coach</h2>
+    
+
+
+
+
+<div id="forum-guidelines" class="js-forum row forum--guidelines" data-thread-acl="self" data-is-inbox="0" data-do-scroll="0" data-fullpage="0" data-is-guidelines="1" data-delete-comment-url="/forum/threads/1/comments/0/delete/" data-update-comment-url="/forum/threads/1/comments/0/update/" data-subscribe-thread-url="/forum/threads/0/subscribe/" data-get-thread-url="/forum/threads/0/" data-reply-url="/forum/threads/0/" data-resource-url="/resources/images/0/" data-event-team-id="7632274" data-inbox-url="/forum/" data-list-thread-url="/forum/threads/">
+    
+        <div class="thread-list__elements" data-forum-role="list">
+            
+        </div>
+    
+</div>
+
+</div>
+
+
+
+
+
+
+
+                    
+
+                
+
+                
+
+                    
+                        <a id="event_report"></a>
+                        <div class="report-container">
+                            <div data-placeholder="placeholder_event_report" id="event-report" class="js-readmore">
+                                
+                            </div>
+
+                            <span class="signature"></span>
+
+                            
+                                <div class="validation hidden">
+                                    <a class="button cancel" href="/event/7632274/report/">Annuler</a>
+                                    <a class="button yes" href="/event/7632274/report/">Valider</a>
+                                    <div class="js-report-information">
+                                        
+                                            <div class="information js-tooltip" data-tooltip="Les membres de votre équipe qui le souhaitent vont recevoir une notification (cf page 'Mes préférences')." title="">
+                                                <span class="icon"></span>
+                                            </div>
+                                        
+                                    </div>
+                                </div>
+                                <div class="action js-switch-mode new">
+                                    <a class="button" href="/event/7632274/report/">Ecrire le compte-rendu</a>
+                                </div>
+
+                            
+                        </div>
+
+                    
+
+                
+                
+                    
+
+
+
+
+<div id="forum-event" class="js-forum row forum--event-main-thread is-closed" data-thread-acl="self" data-is-inbox="1" data-do-scroll="1" data-fullpage="0" data-is-guidelines="0" data-delete-comment-url="/forum/threads/1/comments/0/delete/" data-update-comment-url="/forum/threads/1/comments/0/update/" data-subscribe-thread-url="/forum/threads/0/subscribe/" data-get-thread-url="/forum/threads/0/" data-reply-url="/forum/threads/0/" data-resource-url="/resources/images/0/" data-team-id="568734" data-profile-id="2402285" data-profile-fullname="(V) Cosmin Tupangiu" data-profile-avatar="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/medium.jpg" data-ack-comment-url="/forum/threads/1/comments/0/ack/" data-loader-url="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/loaders/loader_submit.gif" data-event-url="/event/0/" data-event-type="challenge_match" data-inbox-url="/forum/" data-thread-id="4938886" style="display: block; height: 947px; right: 452.5px;">
+    
+        
+
+        
+
+        
+        <div class="thread-detail js-forum-thread-detail" data-current-thread-id="">
+            
+            <div class="thread-detail__header js-toggle-thread thread-detail__header--new" data-forum-role="header"><h2 class="thread-detail__title" data-forum-role="thread-title" data-thread-id="4938886"><span class="svg-icon-wrapper svg-icon-forum" '=""><svg width="26" height="26"><use xlink:href="#forum"></use></svg></span>Forum du match<span data-forum-role="thread-total-unread-comments" class="thread__unread-counter">8</span></h2><p data-forum-role="thread-actions">
+    </p><div class="dropdown">
+        <a href="#" class="icon" data-toggle="dropdown"></a>
+        <ul class="dropdown-menu">
+                            <li><a class="thread-detail__action js-thread-refresh" href="#" data-thread-id="4938886" data-forum-role="thread-action-refresh"><i class="fa fa-refresh"></i> Rafraîchir</a></li>
+                            <li><a class="thread-detail__action js-thread-subscribe" href="/forum/threads/4938886/subscribe/" data-toggle-subscription-to="false" data-forum-role="thread-action-subscribe"><i class="fa fa-check-circle is-valid"></i> Etre notifié des nouveaux messages</a></li>
+            </ul>
+    </div>
+<p></p>
+<p data-forum-role="thread-recipients" style="display: none;" class="thread-detail__header__recipients">
+    <span class="thread-detail__header__recipient">(V) Florent Courtiade</span><span class="thread-detail__header__recipient">Franklin Yondjio</span><span class="thread-detail__header__recipient">(E) Julien Cousinie</span><span class="thread-detail__header__recipient">Ali Wahmane</span><span class="thread-detail__header__recipient">(E) Hubert Nouhen</span><span class="thread-detail__header__recipient">(E) Nicolas Izard</span><span class="thread-detail__header__recipient">Ahmed El Achker</span><span class="thread-detail__header__recipient">(E) Yoann Planchenault</span><span class="thread-detail__header__recipient">Mouad Belghiti</span><span class="thread-detail__header__recipient">Joueur Externe 1</span><span class="thread-detail__header__recipient">Joueur Externe 2</span><span class="thread-detail__header__recipient">Joueur Externe 3</span><span class="thread-detail__header__recipient">Marwen Boulabiar</span><span class="thread-detail__header__recipient">Montassar Mejri</span><span class="thread-detail__header__recipient">(V) Sylvain Merieux</span><span class="thread-detail__header__recipient">(V) Sylvain Bonneau</span><span class="thread-detail__header__recipient">Otmane Bouchtaoui</span><span class="thread-detail__header__recipient">Abakar Mahamat-Sougui</span><span class="thread-detail__header__recipient">Thibault Duchesne</span><span class="thread-detail__header__recipient">(E) Freddy Casimir</span><span class="thread-detail__header__recipient">(V) Mark Burville</span><span class="thread-detail__header__recipient">Amazir Ikhou</span><span class="thread-detail__header__recipient">(V) Cosmin Tupangiu</span><span class="thread-detail__header__recipient">(?) Daniel Feller</span><span class="thread-detail__header__recipient">Oussama Harmouchi</span></p></div>
+            <div class="thread-detail__container">
+                <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; height: 721px;"><div class="thread-detail__comments-wrapper" data-forum-role="scrollable-comments" style="overflow: hidden; width: auto; height: 721px;">
+                    <section class="thread-detail__comments" data-forum-role="comments" style="min-height: 721px;"><article class="thread-detail__comment" id="forum-thread-comment-10344011" data-comment-id="10344011">
+    <div class="thread-detail__comment-wrapper thread-detail__comment-wrapper--new">
+        <span class="thread-detail__comment__unread-tag"></span>
+        <div class="thread-detail__comment__section">
+            <img class="thread-detail__comment__avatar" src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/120x120.jpg">
+            <div class="thread-detail__comment__content">
+                <div class="thread-detail__comment__content-header">
+                    <span class="thread-detail__comment__author">(E) Julien Cousinie</span>
+                    </div>
+                <p class="thread-detail__comment__comment" data-forum-role="comment-content">Amazir, bien vu de te mettre forfait après le classico ;)</p>
+                <span class="thread-detail__comment__date">28/10/2019 07:37</span>
+            </div>
+        </div>
+    </div>
+    <span class="thread-detail__comment__actions">
+    </span>
+</article><article class="thread-detail__comment" id="forum-thread-comment-10344164" data-comment-id="10344164">
+    <div class="thread-detail__comment-wrapper thread-detail__comment-wrapper--new">
+        <span class="thread-detail__comment__unread-tag"></span>
+        <div class="thread-detail__comment__section">
+            <img class="thread-detail__comment__avatar" src="https://d3949ah8cpww7d.cloudfront.net/media/image/avatar/120x120/3fe553957d53717d088f2f87da593dbe/492d3b30709111e8ac22d157ddc0b88a.jpg">
+            <div class="thread-detail__comment__content">
+                <div class="thread-detail__comment__content-header">
+                    <span class="thread-detail__comment__author">(?) Daniel Feller</span>
+                    </div>
+                <p class="thread-detail__comment__comment" data-forum-role="comment-content">PSG = 637 M€ de budget, soit l'équivalent des budgets cumulés de quatorze clubs de Ligue 1.</p>
+                <span class="thread-detail__comment__date">28/10/2019 07:58</span>
+            </div>
+        </div>
+    </div>
+    <span class="thread-detail__comment__actions">
+    </span>
+</article><article class="thread-detail__comment" id="forum-thread-comment-10344171" data-comment-id="10344171">
+    <div class="thread-detail__comment-wrapper thread-detail__comment-wrapper--new">
+        <span class="thread-detail__comment__unread-tag"></span>
+        <div class="thread-detail__comment__section">
+            <img class="thread-detail__comment__avatar" src="https://d3949ah8cpww7d.cloudfront.net/media/image/avatar/120x120/3fe553957d53717d088f2f87da593dbe/492d3b30709111e8ac22d157ddc0b88a.jpg">
+            <div class="thread-detail__comment__content">
+                <div class="thread-detail__comment__content-header">
+                    <span class="thread-detail__comment__author">(?) Daniel Feller</span>
+                    </div>
+                <p class="thread-detail__comment__comment" data-forum-role="comment-content">CQFD</p>
+                <span class="thread-detail__comment__date">28/10/2019 07:58</span>
+            </div>
+        </div>
+    </div>
+    <span class="thread-detail__comment__actions">
+    </span>
+</article><article class="thread-detail__comment" id="forum-thread-comment-10344511" data-comment-id="10344511">
+    <div class="thread-detail__comment-wrapper thread-detail__comment-wrapper--new">
+        <span class="thread-detail__comment__unread-tag"></span>
+        <div class="thread-detail__comment__section">
+            <img class="thread-detail__comment__avatar" src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/120x120.jpg">
+            <div class="thread-detail__comment__content">
+                <div class="thread-detail__comment__content-header">
+                    <span class="thread-detail__comment__author">(E) Julien Cousinie</span>
+                    </div>
+                <p class="thread-detail__comment__comment" data-forum-role="comment-content">Mélenchon c'est toi ?</p>
+                <span class="thread-detail__comment__date">28/10/2019 08:31</span>
+            </div>
+        </div>
+    </div>
+    <span class="thread-detail__comment__actions">
+    </span>
+</article><article class="thread-detail__comment" id="forum-thread-comment-10359230" data-comment-id="10359230">
+    <div class="thread-detail__comment-wrapper thread-detail__comment-wrapper--new">
+        <span class="thread-detail__comment__unread-tag"></span>
+        <div class="thread-detail__comment__section">
+            <img class="thread-detail__comment__avatar" src="https://d3949ah8cpww7d.cloudfront.net/media/image/avatar/120x120/61ff984193f822309aaeb04d79000888/8a771610faf211e89f48274305c060ce.jpg">
+            <div class="thread-detail__comment__content">
+                <div class="thread-detail__comment__content-header">
+                    <span class="thread-detail__comment__author">(E) Hubert Nouhen</span>
+                    </div>
+                <p class="thread-detail__comment__comment" data-forum-role="comment-content">Je vais peut-être avoir du retard demain. Je vous rejoins au plus vite</p>
+                <span class="thread-detail__comment__date">28/10/2019 19:26</span>
+            </div>
+        </div>
+    </div>
+    <span class="thread-detail__comment__actions">
+    </span>
+</article><article class="thread-detail__comment" id="forum-thread-comment-10359313" data-comment-id="10359313">
+    <div class="thread-detail__comment-wrapper thread-detail__comment-wrapper--new">
+        <span class="thread-detail__comment__unread-tag"></span>
+        <div class="thread-detail__comment__section">
+            <img class="thread-detail__comment__avatar" src="https://d3949ah8cpww7d.cloudfront.net/media/image/avatar/120x120/61ff984193f822309aaeb04d79000888/8a771610faf211e89f48274305c060ce.jpg">
+            <div class="thread-detail__comment__content">
+                <div class="thread-detail__comment__content-header">
+                    <span class="thread-detail__comment__author">(E) Hubert Nouhen</span>
+                    </div>
+                <p class="thread-detail__comment__comment" data-forum-role="comment-content">L'OM ils ont remporté la ligue des champions, eux.</p>
+                <span class="thread-detail__comment__date">28/10/2019 19:29</span>
+            </div>
+        </div>
+    </div>
+    <span class="thread-detail__comment__actions">
+    </span>
+</article><article class="thread-detail__comment" id="forum-thread-comment-10360782" data-comment-id="10360782">
+    <div class="thread-detail__comment-wrapper thread-detail__comment-wrapper--new">
+        <span class="thread-detail__comment__unread-tag"></span>
+        <div class="thread-detail__comment__section">
+            <img class="thread-detail__comment__avatar" src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/120x120.jpg">
+            <div class="thread-detail__comment__content">
+                <div class="thread-detail__comment__content-header">
+                    <span class="thread-detail__comment__author">(V) Sylvain Merieux</span>
+                    </div>
+                <p class="thread-detail__comment__comment" data-forum-role="comment-content">Mon fils est encore malade je ne suis pas sur de pouvoir être la. Qlq un pour prendre ma place?</p>
+                <span class="thread-detail__comment__date">28/10/2019 20:19</span>
+            </div>
+        </div>
+    </div>
+    <span class="thread-detail__comment__actions">
+    </span>
+</article><article class="thread-detail__comment" id="forum-thread-comment-10369548" data-comment-id="10369548">
+    <div class="thread-detail__comment-wrapper thread-detail__comment-wrapper--new">
+        <span class="thread-detail__comment__unread-tag"></span>
+        <div class="thread-detail__comment__section">
+            <img class="thread-detail__comment__avatar" src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/themes/v1/images/common/default/avatar/120x120.jpg">
+            <div class="thread-detail__comment__content">
+                <div class="thread-detail__comment__content-header">
+                    <span class="thread-detail__comment__author">(V) Sylvain Merieux</span>
+                    </div>
+                <p class="thread-detail__comment__comment" data-forum-role="comment-content">Je suis dispo pour le foot, je n'ai juste pas de voiture:! A tte!</p>
+                <span class="thread-detail__comment__date">29/10/2019 11:34</span>
+            </div>
+        </div>
+    </div>
+    <span class="thread-detail__comment__actions">
+    </span>
+</article>
+                        
+                        
+
+                    </section>
+                </div><div class="slimScrollBar" style="background: rgb(0, 0, 0); width: 7px; position: absolute; border-radius: 7px; z-index: 99; right: 1px; top: 88px; height: 633.18px; display: none; opacity: 0.4;"></div><div class="slimScrollRail" style="width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; background: rgb(51, 51, 51); opacity: 0.2; z-index: 90; right: 1px;"></div></div>
+            </div>
+            <div class="thread-detail__form-container" data-forum-role="form">
+                
+                <div class="thread-detail__form__typer"><span class="js-typer"></span></div>
+                <form class="thread-detail__form" data-forum-role="reply" data-forum-success-event="forum:comment:created" method="post" action="/forum/threads/4938886/" enctype="multipart/form-data" data-action="/forum/threads/0/">
+                    <div class="form__errors__error" data-forum-error="__all__" style="display:none"></div>
+                    <input type="hidden" name="csrfmiddlewaretoken" value="tPMhKKoHkVrpyffQ7AXr6FROezoYdv2UYwj3nO1sbm6owZWBpWXi7pfXDinVWyHL">
+
+                    <div class="thread-detail__form__section">
+                        <div class="form__errors__error" data-forum-error="comment" style="display:none"></div>
+                        <textarea id="id_comment" maxlength="10000" name="comment" data-autofocus="1"></textarea>
+                        <div class="thread-detail__form__subsection">
+                            <label for="enter_to_submit_reply"><input type="checkbox" name="enter_to_submit" id="enter_to_submit_reply" checked="checked"> Appuyer sur "entrée" enverra le message.</label>
+                        </div>
+                    </div>
+
+                    <div class="thread-detail__form__section ">
+                        <div class="form__errors__error" data-forum-error="image" style="display:none"></div>
+                        <div class="thread-detail__form__section--footer">
+                            <label for="id_image"><i class="fa fa-camera"></i> <input accept="image/jpeg,image/png" id="id_image" multiple="multiple" name="image" type="file"></label>
+                            <div class="thread-detail__form__footer">
+                                <button type="submit" class="js-ajax_loader"><span><i class="fa fa-send"></i> Envoyer</span></button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+                
+            </div>
+        </div>
+        
+
+        
+
+        
+    
+</div>
+
+                
+                <a href="#organization_main_navigation"><span class="please-go-up icon-arrow-up"></span></a>
+
+                
+
+            </div>
+        </div>
+    
+
+
+                    <div id="sidebar">
+                        
+    
+    
+
+
+
+
+
+
+<div id="Sporteasy_ATF_300x250" class="advertising__box__sidebar" style="width:300px; margin-bottom: 0;" data-google-query-id="CKWwuqKbs-cCFcKzUQodYBgNhw"><div id="google_ads_iframe_/21622268643/Sportseasy_ATF_300x250_0__container__"><iframe frameborder="0" width="300" height="250" id="google_ads_iframe_/21622268643/Sportseasy_ATF_300x250_0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation"></iframe></div></div>
+<script type="application/javascript">
+    var slmadshb = slmadshb || {};
+    slmadshb.que = slmadshb.que || [];
+    slmadshb.que.push(function() {
+      slmadshb.display("Sporteasy_ATF_300x250");
+    });
+</script>
+
+
+
+<div class="aside-wrapper">
+
+    
+        <div class="js-sidebox" data-sidebar-id="next-and-last-games" data-url="https://akka-bonito.sporteasy.net/sidebar/next-and-last-games/?param=7632274">
+
+
+
+
+
+
+
+    
+        
+            <div class="light-on">
+                <h2>
+                    <a href="/event/7632289/" id="sidebar-link-last-game">
+                        Dernier match
+                    </a>
+                </h2>
+                <div class="content box-content">
+
+                    <div id="aside_last_match" class="large-content">
+                        
+
+
+
+
+
+
+<div class="large-content">
+    <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/images/event/challenge_match_20px.png" alt="challenge_match" title="Match entre nous" width="20" height="20">
+    <a href="/event/7632289/" title="Match entre nous">
+        
+            mardi 28 janvier 2020
+        
+
+        
+
+    </a>
+    
+
+</div>
+
+<table class="rosters content_table event_calendar ">
+    <tbody>
+    <tr>
+        
+            <td class="left_hand" width="">
+                <a href="/event/7632289/">
+                    Rouges
+
+                </a>
+            </td>
+            <td class="score
+                
+                    
+                ">
+
+                <a href="/event/7632289/">
+                     - 
+                </a>
+            </td>
+            <td class="right_hand">
+                <a href="/event/7632289/">
+                    Bleus
+
+                </a>
+            </td>
+        
+    </tr>
+    </tbody>
+</table>
+
+                    </div>
+
+                    
+                        <div class="clearfix"></div>
+                    
+                </div>
+            </div>
+        
+    
+
+    
+        
+            <div class="light-on">
+                <h2>
+                    <a href="/event/7632290/" id="sidebar-link-next-game">
+                        Prochain match
+                    </a>
+                </h2>
+                <div class="content box-content">
+                    <div id="aside_next_match" class="large-content">
+                        
+
+
+
+
+
+
+<div class="large-content">
+    <img src="https://d3949ah8cpww7d.cloudfront.net/static/2.237.011/images/event/challenge_match_20px.png" alt="challenge_match" title="Match entre nous" width="20" height="20">
+    <a href="/event/7632290/" title="Match entre nous">
+        
+            mardi 4 février 2020
+        
+
+        
+
+    </a>
+    
+        <div class="match-extra">
+            
+            
+
+
+    RDV 12h00
+
+
+        </div>
+
+    
+
+</div>
+
+<table class="rosters content_table event_calendar ">
+    <tbody>
+    <tr>
+        
+            <td class="left_hand" width="">
+                <a href="/event/7632290/">
+                    Rouges
+
+                </a>
+            </td>
+            <td class="score
+                
+                    
+                ">
+
+                <a href="/event/7632290/">
+                     - 
+                </a>
+            </td>
+            <td class="right_hand">
+                <a href="/event/7632290/">
+                    Bleus
+
+                </a>
+            </td>
+        
+    </tr>
+    </tbody>
+</table>
+
+                    </div>
+
+                    
+                        <a href="/calendarlist/2019-2020/all/">
+                            Voir tous les événements
+                        </a>
+                    
+                </div>
+            </div>
+        
+    
+
+
+</div>
+    
+</div>
+
+
+<div id="Sporteasy_BTF_300x250" class="advertising__box__sidebar" style="width:300px; margin-bottom: 0;" data-google-query-id="CJS0uqKbs-cCFYFl0wod2VcOlg"><div id="google_ads_iframe_/21622268643/Sporteasy_BTF_300x250_0__container__"><iframe frameborder="0" width="300" height="250" id="google_ads_iframe_/21622268643/Sporteasy_BTF_300x250_0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation"></iframe></div></div>
+<script type="application/javascript">
+    var slmadshb = slmadshb || {};
+    slmadshb.que = slmadshb.que || [];
+    slmadshb.que.push(function() {
+      slmadshb.display("Sporteasy_BTF_300x250");
+    });
+</script>
+
+
+    
+
+                    </div>
+
+                </div>
+            
+        </div>

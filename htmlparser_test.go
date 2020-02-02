@@ -8,7 +8,7 @@ import (
 )
 
 func TestGetUrl(t *testing.T) {
-	content, err := ioutil.ReadFile("t")
+	content, err := ioutil.ReadFile("test.text")
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -27,6 +27,18 @@ func TestGetRedirectUrl(t *testing.T) {
 	}
 
 	url, _ := extractRedirectUrl(strings.NewReader(string(content)))
+	if len(url) == 0 {
+		t.Fatal(errors.New("no redirect nde"))
+	}
+}
+
+func TestGetPlayers(t *testing.T) {
+	content, err := ioutil.ReadFile("test3.txt")
+	if err != nil {
+		t.Fatal(err)
+	}
+
+	url, _ := parseAttendeePage(strings.NewReader(string(content)))
 	if len(url) == 0 {
 		t.Fatal(errors.New("no redirect nde"))
 	}
