@@ -46,12 +46,8 @@ func usage() {
 
 func main() {
 	flag.Parse()
-	if flag.NArg() == 0 {
-		usage()
-	}
 
-	name := flag.Arg(0)
-	demo, ok := appFunc[name]
+	gmail, ok := appFunc["gmail"]
 	if !ok {
 		usage()
 	}
@@ -60,7 +56,7 @@ func main() {
 		ClientID:     valueOrFileContents(*clientID, *clientIDFile),
 		ClientSecret: valueOrFileContents(*secret, *secretFile),
 		Endpoint:     google.Endpoint,
-		Scopes:       []string{appScope[name]},
+		Scopes:       []string{appScope["gmail"]},
 	}
 
 	ctx := context.Background()
@@ -70,7 +66,7 @@ func main() {
 		})
 	}
 	c := newOAuthClient(ctx, config)
-	demo(c, flag.Args()[1:])
+	gmail(c, flag.Args()[0:])
 }
 
 var (
