@@ -108,10 +108,12 @@ func gmailMain(client *http.Client, argv []string) {
 			log.Fatalf("Url not found in message %v: %v", m.gmailID, m)
 		}
 
+		log.Println("Follow redirect url")
 		content, err := followUrl(url)
 		if err != nil {
 			log.Fatal(err)
 		}
+		log.Println("Redirect url OK")
 
 		log.Println("Extract redirect url")
 		redirectUrl, err := extractRedirectUrl(strings.NewReader(string(content)))
@@ -123,7 +125,14 @@ func gmailMain(client *http.Client, argv []string) {
 		if err != nil {
 			log.Fatal(err)
 		}
-		fmt.Println(string(content2))
+
+		players, err := parseAttendeePage(strings.NewReader(string(content2)))
+		if err != nil {
+			log.Fatalf("error parsing attendee page: %v", err)
+		}
+		if len(players) > 0 {
+			fmt.Println(players)
+		}
 	}
 }
 
