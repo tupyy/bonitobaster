@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Dispo pour le match entre nous du mardi 14 janvier ?</title>
+</head>
+<body style="color: #666; margin: 0; font-family: Helvetica, Arial, Sans-Serif; font-size: 12px">
+
+ <h2 style='margin: 30px 0 10px 0; color: #0078B9; test-align: left'><span>Es-tu disponible ?</span></h2>
+ 
+
+ <table style="border-spacing: 10px; border-collapse: separate; text-align: center">
+<tr>
+<td style="padding: 0; width: 285px">
+<table style="border-spacing: 0; font-size: 20px; font-weight: bold; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; background-color: #1aa21a; margin: auto">
+<tr>
+<td style="padding: 0">
+<a href="http://r.mail.sporteasy.net/tr/cl/8rHz_AybwoUIc4pwFQaslUaP1OHViEi_4AT1mJX4hQh2tqjTEqkrYDEIxX7jXv1eCpMgEd9yYWCEX0e-gCLgn8nplrmtdZqJKj9lwM6ueJJPxenULfg8_eYlA41tnWp-xaffU0fthajdfL9OzlAKxHPa-NPNwpWpk1OkeakExbFiijM93R3pTS6bDrwJ9pLIY9wPFYgTN3sHJd754731pOe1ZkxjRdSWt1l_im1qUqwhFiWZ-dmOtxLwn02797wjBP_wSR_MPASRFSeH02fahNI3pIeYpRcdeYZLFIQfqTszpR51UaGl_TeQosZ_jjaNW_2Ym5N-qHrtzGIJpiwPZAQWToI5384eKix2j-_-O2vbe2234bcHNpVi2fKhi0ukBZlUA2YGBDq2LtjV5SyN7ULp6YbEIv8B9Mqip6VdsVF0lVBGjtfcWToO1pXJcPeUlJ8sFibrR1cw49wGn1tyLIDjf4bY93FptIgTbHfIOiGbJ5yw4R3oRnzqGulhDqUPTFF55_g2guWrBCtoTVhPYg6ztHGHb1kNx3dV" style='text-decoration: none; color: #fff; text-shadow: 1px 1px 1px #333; display: block; padding: 5px 15px'><span style='color: #fff; text-shadow: 1px 1px 1px #333; text-decoration: none; display: block; padding: 5px 15px'>Oui</span></a>
+</td>
+</tr>
+</table>
+</td>
+<td style="padding: 0; width: 285px">
+<table style="border-spacing: 0; font-size: 20px; font-weight: bold; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; background-color: #ff0202; margin: auto">
+<tr>
+<td style="padding: 0">
+<a href="http://r.mail.sporteasy.net/tr/cl/16QA_kGoPNnhETq1l4WHAM3w_APvHER1mnS_ul4M1V85YcEw36M_2STjAPL9tz7WvJdhmmoTwJ9FRSdVN3QU-gmVW6KM-iq5VYI3ON643Eb9WtYSV2oMdPNTS0fwwhciVc8cdk-JlO5VGbI1GzVcZkh9EdqHS347itgjs1uvnSLSw44zDPfvcaVkNY5IpJ7b9nHeysekehb8ZRrs-QgoAWVyFqJEI7_UVZaSEFOK_Cee4vLbzDHwcXogLKdx5thQpcFETuNhoUTYV9qaRL_1DbGoKHKORVf3u38Ul5OImwlA3P5EOkjG2A5Vf7JsWi9M2OxDP2xI1IDK7rTyFoT3ceoaK_bbDJ9V9LWkt1wKLCbJTBBNCqcqdHUEDlDzfVyUk1zOSs7FTRX85uJTIxDKuTHZ-cgF5t2PGHeKgDK11yeiMlH0hogAiUZyL8E7gGR6Xr5Ybg2MUImdzyZ-VGpKUDxLX-hfGuSFXipVndEQuFaq8XY1-cYqt6JKAWf_zJp7s2mpuJ705ZeaUGqxEFIwZoq0q5vWxq58Z9viqA" style='text-decoration: none; color: #fff; text-shadow: 1px 1px 1px #333; display: block; padding: 5px 15px'><span style='color: #fff; text-shadow: 1px 1px 1px #333; text-decoration: none; display: block; padding: 5px 15px'>Non</span></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+ 

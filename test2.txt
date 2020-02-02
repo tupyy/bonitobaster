@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>Redirection</title>
+                <style>
+                        #link {
+                                font-size: 1.5em;
+                        }
+                        @keyframes fadein {
+                                0%   {opacity: 0;}
+                                99%  {opacity: 0;}
+                                100% {opacity: 1;}
+                        }
+                </style>
+        </head>
+        <body>
+                <noscript><a id="link" href="https://akka-bonito.sporteasy.net/event/7632287/registration/accept/?utm_campaign=event_registration_request&amp;utm_medium=email_prod&amp;connect=ZkwpkhpbEWO6FAhVFT2jGlLs38VUMykMF%2BeYjdIZrqVkMmEwMWE1Ni1hZGQ4LTExZTktYWFjOS04%0ANjY2ZjNjZjVhMjA%3D&amp;utm_source=event">Click here if you&rsquo;re not redirected automatically</a></noscript>
+                <iframe src="https://sibautomation.com/cm.html?id=15915#message_id=a35c3c5f-cfd4-45d5-8288-7a7dda93b6c7&amp;trans=1" onload="top.location='https:\/\/akka-bonito.sporteasy.net\/event\/7632287\/registration\/accept\/?utm_campaign=event_registration_request\x26utm_medium=email_prod\x26connect=ZkwpkhpbEWO6FAhVFT2jGlLs38VUMykMF%2BeYjdIZrqVkMmEwMWE1Ni1hZGQ4LTExZTktYWFjOS04%0ANjY2ZjNjZjVhMjA%3D\x26utm_source=event'" style="display:none;"></iframe>
+        </body>
+</html>
+
