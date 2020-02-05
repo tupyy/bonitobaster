@@ -139,6 +139,5 @@ func getMessages(svc *gmail.Service) ([]message, error) {
 }
 
 func isToday(d time.Time) bool {
-	return true
-	//	return d.Day() == time.Now().Day() && d.Month() == time.Now().Month() && d.Year() == time.Now().Year()
+	return d.Day() == time.Now().Day() && d.Month() == time.Now().Month() && d.Year() == time.Now().Year()
 }
