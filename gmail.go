@@ -5,7 +5,9 @@ import (
 	"fmt"
 	"log"
 	"net/http"
+	"net/url"
 	"os"
+	"strings"
 	"time"
 
 	gmail "google.golang.org/api/gmail/v1"
@@ -14,6 +16,8 @@ import (
 const (
 	AKKABonito = "AKKA_Bonito"
 	subject    = "Dispo pour le match entre nous du"
+	username   = "cosmin.tupangiu@gmail.com"
+	password   = "Parola001."
 )
 
 func init() {
@@ -45,6 +49,23 @@ func gmailMain(client *http.Client, argv []string) {
 	}
 
 	if len(msgs) > 0 {
+		// login
+		u, _ := url.Parse("https://www.sporteasy.net/fr/login/")
+		content, cookies, err := followUrlWithCookies(u)
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		csrfToken, err := extractCsrfToken(strings.NewReader(string(content)))
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		statusCode, cookie := login(u, username, password, csrfToken, cookies)
+		if statusCode > 400 {
+			log.Fatalf("Cannot login. Status code: %d", statusCode)
+		}
+		log.Print(cookie.String())
 		for _, m := range msgs {
 			err := processMessage(m)
 			if err != nil {
