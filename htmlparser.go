@@ -102,6 +102,28 @@ func parseAttendeePage(r io.Reader) ([]string, error) {
 	return players, nil
 }
 
+func extractCsrfToken(r io.Reader) (string, error) {
+	doc, err := html.Parse(r)
+	if err != nil {
+		return "", err
+	}
+
+	var div html.Node
+	findNodeByAttribute(doc, &div, "name", "csrfmiddlewaretoken")
+
+	if div.Parent == nil {
+		return "", errors.New("csrfmiddlewaretoken not found")
+	}
+
+	for _, a := range div.Attr {
+		if a.Key == "value" {
+			return a.Val, nil
+		}
+	}
+
+	return "", errors.New("csrfmiddlewaretoken not found")
+}
+
 func findNode(n *html.Node, found *html.Node, r *regexp.Regexp) {
 	if r.MatchString(n.Data) {
 		*found = *n
